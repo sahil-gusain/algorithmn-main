@@ -1,0 +1,2 @@
+# algorithmn
+QuickSort algo
